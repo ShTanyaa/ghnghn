@@ -1,0 +1,11 @@
+C:\Users\325L-11\Desktop\шумкова пр-21\prakt14_var19\bin\Debug\prakt14_var19.exe.config
+C:\Users\325L-11\Desktop\шумкова пр-21\prakt14_var19\bin\Debug\prakt14_var19.exe
+C:\Users\325L-11\Desktop\шумкова пр-21\prakt14_var19\bin\Debug\prakt14_var19.pdb
+C:\Users\325L-11\Desktop\шумкова пр-21\prakt14_var19\bin\Debug\ClassLibrary1.dll
+C:\Users\325L-11\Desktop\шумкова пр-21\prakt14_var19\bin\Debug\ClassLibrary1.pdb
+C:\Users\325L-11\Desktop\шумкова пр-21\prakt14_var19\obj\Debug\prakt14_var19.csproj.AssemblyReference.cache
+C:\Users\325L-11\Desktop\шумкова пр-21\prakt14_var19\obj\Debug\prakt14_var19.csproj.SuggestedBindingRedirects.cache
+C:\Users\325L-11\Desktop\шумкова пр-21\prakt14_var19\obj\Debug\prakt14_var19.csproj.CoreCompileInputs.cache
+C:\Users\325L-11\Desktop\шумкова пр-21\prakt14_var19\obj\Debug\prakt14_var19.csproj.CopyComplete
+C:\Users\325L-11\Desktop\шумкова пр-21\prakt14_var19\obj\Debug\prakt14_var19.exe
+C:\Users\325L-11\Desktop\шумкова пр-21\prakt14_var19\obj\Debug\prakt14_var19.pdb
